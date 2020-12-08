@@ -1,0 +1,15 @@
+.aws/
+.idea/
+pkg/
+src/git/
+src/github/
+src/github.com/
+*.pyc
+*.conf
+*.config
+*.creds
+*.env
+*.pwd
+*.pw
+config*.json
+creds.json
