@@ -4,7 +4,7 @@ This is a simple "Hello World" API example.  It is meant to be used for instruct
 
 The API listens on port:  1234
 
-API Enpoints:
+API Endpoints:
 * **/status** (GET) - this states whether the app is up and healthy
 * There are multiple endpoint which returns "Hello World" (do the same thing):
   * **/hello** (GET)
