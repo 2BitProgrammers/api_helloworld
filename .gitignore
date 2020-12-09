@@ -4,6 +4,7 @@ pkg/
 src/git/
 src/github/
 src/github.com/
+src/go.sum
 *.pyc
 *.conf
 *.config
@@ -13,3 +14,5 @@ src/github.com/
 *.pw
 config*.json
 creds.json
+app_helloworld
+app_helloworld.exe
